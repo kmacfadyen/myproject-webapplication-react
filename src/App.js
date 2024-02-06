@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-import { Article, Brand, CTA, Feature, Navbar } from './components';
+import { Brand, CTA, Navbar } from './components';
 import { Footer, Blog, Possibility, Features, Header, WhatGPT3 } from './containers';
 
 const App = () => {
