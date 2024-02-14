@@ -11,6 +11,7 @@ const Header = () => {
                 <h1 className="gradient__text">
                     Let's Build Something Amazing with GPT-3 OpenAI
                 </h1>
+            {/* <p>You can use a Generative Pre-trained Transformer to help with many tasks! Whether you need language generation, some questions answered, or </p> */}
                 <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing indulgence way everything joy alteration boisterous the attachment. Party we years to order all asked of.</p>
                 <div className="gpt3__header-content__input">
                     <input type="email" placeholder="Your Email Address"/>
@@ -18,7 +19,7 @@ const Header = () => {
                 </div>
                 <div className="gpt3__header-content__people">
                     <img src={people} alt="people"/>
-                    <p>1,600 people requested access a visit in the last 24 hours</p>
+                    <p>1,600 people requested access to visit within the last 24 hours</p>
                 </div>
             </div>
             <div className="gpt3__header-image">
