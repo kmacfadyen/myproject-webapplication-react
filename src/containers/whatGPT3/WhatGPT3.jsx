@@ -5,8 +5,7 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="
-ChatGPT specifically refers to a variant of the GPT (Generative Pre-trained Transformer) model that is optimized for conversational interactions. It is designed to understand and generate human-like responses in the context of a conversation. ChatGPT has been fine-tuned on conversational data to excel in tasks such as dialogue generation, responding to user queries, and maintaining coherence and relevance in conversations." />
+      <Feature title="What is GPT-3" text="GPT-3, short for Generative Pre-trained Transformer 3, is an advanced artificial intelligence model developed by OpenAI. It represents the latest iteration of the GPT series, renowned for its groundbreaking capabilities in natural language processing (NLP). GPT-3 is trained on an unprecedented scale with 175 billion parameters, enabling it to comprehend and generate human-like text with remarkable accuracy and fluency." />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
